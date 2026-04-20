@@ -1,0 +1,2 @@
+-- No database required — static landing page with console-only email capture.
+-- All functionality handled client-side; no user data persisted to Supabase.

@@ -1,0 +1,1 @@
+-- No seed data needed — static app with no database.

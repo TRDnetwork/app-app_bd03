@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://app_bd03.vercel.app/sitemap.xml
